@@ -1,3 +1,8 @@
+![mario_gif](https://github.com/user-attachments/assets/568e9a30-adce-48e8-b5cb-4a935d16ca2f)
+
+
+
+
 - 👋 Hi, I’m @Valay-2004
 - 👀 I’m interested in Cyber Security, Software Engineering.
 - 🌱 I’m currently doing B.tech CSE
