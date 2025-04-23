@@ -8,7 +8,8 @@
 - 🌱 I’m currently doing B.tech CSE
 - 😉 I'm learning about Reverse Engg., Pentesting, etc.
 - 💞️ I’m looking to collaborate on CTFs, Projects.
-#- 📫 How to reach me valaybhaladhare56@gmail.com
+<!-- 📫 How to reach me valaybhaladhare56@gmail.com -->
+
 
 <!---
 Valay-2004/Valay-2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
