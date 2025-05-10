@@ -3,12 +3,7 @@
 
 
 
-- 👋 Hi, I’m @Valay-2004
-- 👀 I’m interested in Cyber Security, Software Engineering.
-- 🌱 I’m currently doing B.tech CSE
-- 😉 I'm learning about Reverse Engg., Pentesting, etc.
-- 💞️ I’m looking to collaborate on CTFs, Projects.
-<!-- 📫 How to reach me valaybhaladhare56@gmail.com -->
+No need to know me I am what the TITLE says!!!
 
 
 <!---
