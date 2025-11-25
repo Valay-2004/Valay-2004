@@ -2,6 +2,10 @@
 Valay-2004/Valay-2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<!---
+Valay-2004/Valay-2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 <!-- HEADER WITH TYPING EFFECT -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=FF3355&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Valay+Bhaladhare;CyberSecurity+Enthusiast;Software+Engineer;Web+Developer" alt="Typing SVG" />
@@ -12,47 +16,58 @@ You can click the Preview link to take a look at your changes.
   <!-- 🚨 REPLACE THE LINK BELOW WITH YOUR GIF URL 🚨 -->
   <img src="https://github.com/user-attachments/assets/568e9a30-adce-48e8-b5cb-4a935d16ca2f" width="600" style="border-radius: 10px; box-shadow: 0px 0px 20px rgba(255, 51, 85, 0.3);">
 </div>
-
-<br/>
-
+<br>
 <!-- INTRO SECTION -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,161b22,21262d&height=100&section=header&text=&fontSize=0" />
 </div>
-
 <h3 align="center">
   "Securing the digital frontier, one line of code at a time."
 </h3>
 
+- I am a <b>Cybersecurity & Software Engineering enthusiast</b>
+- <b>Red Teaming</b>, <b>Web Security</b>, and <b>Reverse Engineering</b>.
+- Passionate about building secure applications, analyzing attack paths, and breaking things to understand them better.
+- Learning `React & SpringBoot` Now
+  <marquee><h3>Earned the <b>TryHackMe Jr. Penetration Tester</b> certification.</h3></marquee>
+
+<br>
+<!-- 🛠 TECH STACK -->
+
+## 🛠 Arsenal
+
 <div align="center">
-  I am a <b>Fresher</b> passionate about <b>CyberSecurity</b>, <b>Software Engineering</b>, and building secure <b>Web Applications</b>. I love breaking things to learn how to build them better.
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,js,react,spring,nodejs,html,css,git,linux,bash,mysql,postgresql,vscode,vim,kali,docker,github&theme=dark" />
+  </a>
 </div>
 
-<br/>
+<br>
 
-<!-- TECH STACK (Unique "SkillIcons" Style) -->
-<h3 align="center">🛠 Arsenal</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,html,css,git,linux,bash,mysql,spring,vscode,vim,kali,docker&theme=dark" />
-</div>
+## 🎮 Stats
 
-<br/>
+<table align="center">
+  <tr>
+    <td>
+      <img
+        src="https://streak-stats.demolab.com/?user=Valay-2004&theme=highcontrast&hide_border=true"
+        alt="GitHub Streak"
+        height="180"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Valay-2004&layout=compact&theme=highcontrast&hide_border=true"
+        alt="Top Languages"
+        height="180"
+      />
+    </td>
+  </tr>
+</table>
 
-<!-- GITHUB STATS (Custom "Crimson Ops" Theme) -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Valay-2004&show_icons=true&theme=transparent&title_color=ff3355&text_color=c9d1d9&icon_color=ff3355&bg_color=0d1117&hide_border=true&locale=en" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valay-2004&layout=compact&theme=transparent&title_color=ff3355&text_color=c9d1d9&icon_color=ff3355&bg_color=0d1117&hide_border=true&locale=en" height="150" alt="languages graph" />
-</div>
+## 🐍 Hisss...
 
-<!-- STREAK STATS -->
-<div align="center">
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Valay-2004&theme=transparent&ring=ff3355&fire=ff3355&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=ff3355&sideLabels=c9d1d9&background=0d1117&hide_border=true" alt="streak stats" />
-</div>
-
-<br/>
-
-<!-- SNAKE ANIMATION (The "Hacker" Touch) -->
+<!-- 🐍 SNAKE ANIMATION -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Valay-2004/Valay-2004/output/github-contribution-grid-snake-dark.svg">
@@ -61,21 +76,29 @@ You can click the Preview link to take a look at your changes.
   </picture>
 </div>
 
-<br/>
+<!-- ## 🏆 Trophies
 
-<!-- FOOTER / CONNECT -->
-<div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/Portfolio-FF3355?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Valay-2004&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy) -->
 
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="mailto:valaybhaladhare56@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a> 
+  <a href="https://www.linkedin.com/in/valay2004">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://tryhackme.com/p/UnDeaDgh0sT">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Valay-2004/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
+  </a>
+  </a>
+</p>
+
+<!-- FOOTER -->
 <div align="center">
   <br />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21262d,161b22,0d1117&height=100&section=footer&text=&fontSize=0" />
