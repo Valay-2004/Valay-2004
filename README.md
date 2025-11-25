@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 - I am a <b>Cybersecurity & Software Engineering enthusiast</b>
 - <b>Red Teaming</b>, <b>Web Security</b>, and <b>Reverse Engineering</b>.
 - Passionate about building secure applications, analyzing attack paths, and breaking things to understand them better.
-- Learning `React & SpringBoot` Now
+- Currently deep diving into `React & SpringBoot` 😏
   <marquee><h3>Earned the <b>TryHackMe Jr. Penetration Tester</b> certification.</h3></marquee>
 
 <br>
@@ -49,21 +49,24 @@ You can click the Preview link to take a look at your changes.
 <table align="center">
   <tr>
     <td>
-      <img
-        src="https://streak-stats.demolab.com/?user=Valay-2004&theme=highcontrast&hide_border=true"
-        alt="GitHub Streak"
-        height="180"
-      />
+      <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats-one-rho.vercel.app?user=Valay-2004&theme=ocean-dark" alt="GitHub Streak" />
+      </a>
     </td>
     <td>
       <img
-        src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Valay-2004&layout=compact&theme=highcontrast&hide_border=true"
+        src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Valay-2004&layout=compact&theme=dark&hide_border=true"
         alt="Top Languages"
         height="180"
       />
     </td>
   </tr>
 </table>
+
+<br>
+<!-- Bottom: Activity Graph (New! Like the example profile) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Valay-2004&bg_color=0d1117&color=ff3355&line=ff3355&point=c9d1d9&area=true&hide_border=true" alt="Activity Graph" />
+
 
 ## 🐍 Hisss...
 
