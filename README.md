@@ -29,7 +29,10 @@ You can click the Preview link to take a look at your changes.
 - <b>Red Teaming</b>, <b>Web Security</b>, and <b>Reverse Engineering</b>.
 - Passionate about building secure applications, analyzing attack paths, and breaking things to understand them better.
 - Currently deep diving into `React & SpringBoot` 😏
+
+  <!---
   <marquee><h3>Earned the <b>TryHackMe Jr. Penetration Tester</b> certification.</h3></marquee>
+  --->
 
 <br>
 <!-- 🛠 TECH STACK -->
