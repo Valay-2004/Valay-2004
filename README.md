@@ -41,7 +41,7 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,js,react,spring,nodejs,html,css,git,linux,bash,mysql,postgresql,vscode,vim,kali,docker,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,python,js,react,spring,nodejs,html,css,git,linux,bash,mysql,postgresql,vscode,idea,vim,kali,docker,github&theme=dark" />
   </a>
 </div>
 
@@ -53,7 +53,8 @@ You can click the Preview link to take a look at your changes.
   <tr>
     <td>
       <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats-one-rho.vercel.app?user=Valay-2004&theme=ocean-dark" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats-one-rho.vercel.app?user=Valay-2004&theme=black-ice&theme=ocean-dark" alt="GitHub Streak" />
+        
       </a>
     </td>
     <td>
