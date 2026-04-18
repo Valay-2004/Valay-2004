@@ -53,7 +53,7 @@ You can click the Preview link to take a look at your changes.
   <tr>
     <td>
       <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats-one-rho.vercel.app?user=Valay-2004&theme=ocean-dark&hide_border=true" alt="GitHub Streak" height="170"/>
+        <img src="https://github-readme-streak-stats-one-rho.vercel.app?user=Valay-2004&theme=java-dark&hide_border=true" alt="GitHub Streak" height="170"/>
       </a>
     </td>
     <td>
